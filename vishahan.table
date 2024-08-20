@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<head>
+        <title>table</title>
+        <style
+               table,td,th{
+                     border: 2px solid blue;
+                     border-collapse: collapse;
+               }
+         </style>
+</head>
+<body>
+        <table>
+               <tr>
+                     <th>firstname</th>
+                     <th>lastname</th>
+                     <th>Age</th>
+               </tr
+               <tr>
+                      <td>visha</td>
+                      <td>han</td>
+                      <td>18</td>
+               </tr>
+               <tr>
+                      <td>maha</td>
+                      <td>sri</td>
+                     <td>17</td>
+               </tr>
+       </table>
+</body>
