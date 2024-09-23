@@ -1,0 +1,26 @@
+ form{
+        font-size: xx-large;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: brown;
+
+    }
+
+
+</style>
+<body background="https://images.squarespace-cdn.com/content/v1/6123aa4da7d85907b823dc29/1646063669874-SKXA5SWVYES9QIB01OHI/clouds.jpg">
+<center>
+    <form action="">
+        <label for="">INSTAGRAM</label><br><br><br>
+        <label for="" style="background-color: white;">Username:</label>
+        <input type="text"placeholder="ENTER"><br><br>
+        <!-- Password field-->   
+        <label for="" style="background-color: white;"> Password:</label> <input type="password" value="enter" id="password">
+        <!-- An element to toggle between password visibility -->
+        <input type="checkbox" onclick="myFunction()"><i class="fa fa-eye"aria-hidden="true"id=showPassword"
+        style="position: absolute; font:20px; right: 50px; top: 45%; cursor: pointer;"></i> <br><br><br><br>
+        <button>LOGIN</button><br>
+        <a href="#" style="margin-left:200px;">Forget Password</a>
+    </form>
+</body>
+</center>
+</html>
