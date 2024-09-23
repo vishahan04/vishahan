@@ -1,0 +1,15 @@
+<html>
+     <body>
+         <h3><b>bold text</b></h3><br>
+         <hr style="width:100px;height:27px;baclground-color:red;text-align:left;">
+         <h3><strong>important text</strong></h3><br>
+         <h3>the<i>italic</i></h3><br>
+         <h3>the<em>emphasized</em></h3><br>
+         <h3>the<mark>marked</mark></h3><br>
+         <h3>the<small>small text</small></h3><br>
+         <h3>the<del>deleted</del></h3><br>
+         <h3>the<ins>inserted<\ins></h3><br>
+         <h3>the<sub>subscript</sub></h3><br>
+         <h3>the<sup>superscript</sup></h3><br>
+     </body>
+</html>
