@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+      <h1><b>CALENDER VARIATIONS</b></h1>
+      <p>A vast propositions of a important timeseries is available in a monthly from.<br>The actual lenth  shortest month is above 10% less than.<br>thus the production (or)sale for the month of february may be less.</p>
+      
+      <h1><b>VALUES AND TYPES</b></h1>
+      <h2><b>Value</b></h2>
+      <p>A value is one of the fundamental things like word or a number that a program manipuleted.<br>(i.e)The value have to seen so for 7 and "HELLO WORLD".</P>
+
+      <p style="color: red; font-size:x-large,">PAPA</p>
+</html>
+
